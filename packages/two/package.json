@@ -1,6 +1,6 @@
 {
   "name": "two",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Xiahui Li <xiahui.li@shopee.com>",
   "homepage": "",
@@ -24,6 +24,6 @@
     "axios": "0.24.0",
     "classnames": "^2.2.6",
     "jquery": "^3.6.0",
-    "one": "^0.0.0"
+    "one": "^1.0.0"
   }
 }
