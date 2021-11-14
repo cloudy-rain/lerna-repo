@@ -1,0 +1,26 @@
+{
+  "name": "three",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Xiahui Li <xiahui.li@shopee.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/three.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.shopee.io/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "dev": "node lib/three.js"
+  },
+  "dependencies": {
+    "two": "^0.0.0"
+  }
+}

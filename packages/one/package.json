@@ -1,0 +1,28 @@
+{
+  "name": "one",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Xiahui Li <xiahui.li@shopee.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/one.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.shopee.io/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "dev": "node lib/one.js"
+  },
+  "dependencies": {
+    "axios": "0.22.0",
+    "classnames": "^2.2.6",
+    "jquery": "^3.6.0"
+  }
+}
