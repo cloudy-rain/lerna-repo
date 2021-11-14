@@ -1,6 +1,6 @@
 {
   "name": "one",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "> TODO: description",
   "author": "Xiahui Li <xiahui.li@shopee.com>",
   "homepage": "",
@@ -25,5 +25,5 @@
     "classnames": "^2.2.6",
     "jquery": "^3.6.0"
   },
-  "gitHead": "87a7553f88e183135d919e4b2a7179dd12691538"
+  "gitHead": "a7714565c69553f5c18830d28e18c6811c81f267"
 }
