@@ -1,6 +1,6 @@
 {
   "name": "three",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "> TODO: description",
   "author": "Xiahui Li <xiahui.li@shopee.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "dev": "node lib/three.js"
   },
   "dependencies": {
-    "two": "^3.0.0"
+    "two": "^4.0.0"
   },
-  "gitHead": "b3225b3d54b2254e030ac82566a10d9481343acf"
+  "gitHead": "c84f3fdef1ebb881bf217896289e85375d4210af"
 }
