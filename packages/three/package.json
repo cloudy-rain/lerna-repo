@@ -1,10 +1,10 @@
 {
   "name": "three",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "> TODO: description",
   "author": "Xiahui Li <xiahui.li@shopee.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "(ISC OR GPL-3.0)",
   "main": "lib/three.js",
   "directories": {
     "lib": "lib",
@@ -21,6 +21,7 @@
     "dev": "node lib/three.js"
   },
   "dependencies": {
-    "two": "^1.0.0"
-  }
+    "two": "^2.0.0"
+  },
+  "gitHead": "2ee1c9d503f94e85a71c02c5f46d7a44873a3549"
 }
